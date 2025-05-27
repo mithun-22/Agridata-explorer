@@ -1,7 +1,7 @@
-import streamlit as st # type: ignore
+import streamlit as st 
 import pandas as pd
 import sqlite3
-import altair as alt # type: ignore
+import altair as alt 
 
 st.set_page_config(layout="wide")
 st.title("ICRISAT District-Level Agricultural Analysis")
